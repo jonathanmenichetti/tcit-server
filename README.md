@@ -14,6 +14,8 @@ $ yarn install
 
 ## Base de datos
 
+> Copiar el archivo **".env.example"** y llamarlo **".env"**.
+
 Levantar el servicio de docker compose para utilizar postgreSQL.
 
 ```
